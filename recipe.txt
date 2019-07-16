@@ -2,3 +2,4 @@ Water
 Chicken
 Broth
 Pepper
+Extra salt
