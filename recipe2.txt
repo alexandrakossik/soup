@@ -1,0 +1,7 @@
+carrots
+celery
+potatoes
+salt
+pepper
+chicken
+
